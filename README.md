@@ -11,6 +11,7 @@ Penyelesaian kasus Rat in a Maze dengan menggunakan Greedy Best First Search dan
 Untuk nilai dari heuristic nya menggunakan heuristic euclidean (mencari jarak sejati dari titik node dengan titik finish) menggunakan pythagoras
 
 maze=[
+
     ['#','#','#','#','#','G','#','#'],
     
     ['#','#','#','#',' ',' ',' ','#'],

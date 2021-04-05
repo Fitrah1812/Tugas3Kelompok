@@ -22,6 +22,9 @@ maze=[
     
     [' ','S',' ',' ',' ',' ',' ',' ']
 ]
+
+Dari Maze ini diminta untuk mencari jalan tercepat dari initial State yaitu G ke S sebagai goal state.
+
 Analisis dari soal ini didapatkan ternyata terbukti waktu dan langkah terbaik dan maksimal terdapat di metode A* search dengan hasil yang didapatkan.
 Adapun hasil yang didapatkan adalah sebagai berikut 
 1. Searching dengan menggunakan Greedy Best First Search adalah sebagai berikut Ditemukan setelah melakukan ekspansi sebanyak 13 node

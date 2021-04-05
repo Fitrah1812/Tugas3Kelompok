@@ -12,9 +12,13 @@ Untuk nilai dari heuristic nya menggunakan heuristic euclidean (mencari jarak se
 
 maze=[
     ['#','#','#','#','#','G','#','#'],
+    
     ['#','#','#','#',' ',' ',' ','#'],
+    
     [' ',' ',' ',' ',' ','#',' ',' '],
+    
     [' ','#','#','#','#','#','#',' '],
+    
     [' ','S',' ',' ',' ',' ',' ',' ']
 ]
 Analisis dari soal ini didapatkan ternyata terbukti waktu dan langkah terbaik dan maksimal terdapat di metode A* search dengan hasil yang didapatkan.

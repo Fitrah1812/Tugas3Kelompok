@@ -23,7 +23,7 @@ maze=[
     [' ','S',' ',' ',' ',' ',' ',' ']
 ]
 
-Dari Maze ini diminta untuk mencari jalan tercepat dari initial State yaitu G ke S sebagai goal state.
+Dari Maze ini diminta untuk mencari jalan tercepat dari initial State yaitu S ke G sebagai goal state.
 
 Analisis dari soal ini didapatkan ternyata terbukti waktu dan langkah terbaik dan maksimal terdapat di metode A* search dengan hasil yang didapatkan.
 Adapun hasil yang didapatkan adalah sebagai berikut 

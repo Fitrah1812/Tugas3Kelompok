@@ -50,6 +50,7 @@ while len(fringe) > 0:
         print("Ditemukan setelah melakukan ekspansi sebanyak",count_expansion,"node")
         print("dengan",len(node_now.actions), "langkah:",node_now.actions)
         waktu1 = time()-waktu
+        print("Waktunya adalah ", waktu1)
         break
 
     is_closed=False
